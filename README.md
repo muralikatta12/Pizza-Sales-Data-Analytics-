@@ -31,15 +31,15 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 
   
 1. Total Revenue:
- ```select round(sum(total_price),2) as Total_Revenue from 
-pizza_sales;```
+```select round(sum(total_price),2) as Total_Revenue from ```
+``` pizza_sales; ```
  
 
 2. Average Order value:
-``` select round(sum(total_price) / count(DISTINCT order_id),2)
-as Avg_ord_value from pizza_sales;
+   ```select round(sum(total_price) / count(DISTINCT order_id),2) ```
+```   as Avg_ord_value from pizza_sales; ```
  
-3. Total Pizzas Sold:
+### 3. Total Pizzas Sold:
 SELECT SUM(quantity) AS Total_Pizza_Sold
 from pizza_sales;
  
