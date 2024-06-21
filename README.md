@@ -1,7 +1,8 @@
 # Pizza Sales Analysis
 ## Table of contents
  - [Project Overview](#project-overview)
- - [Recomendations](#recomendations)
+ - [Data Sources](#Data-Sources)
+ - [Recomendations](#Recommendations)
 ### Project Overview
 
 Welcome to the Pizza Sales Data Analytics Report repository. This project leverages SQL queries to analyze pizza sales data, focusing on key performance indicators (KPIs) to provide actionable insights into business performance.
@@ -13,6 +14,7 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 ### Tools
 
 - Excel - Data cleaning
+  - [Download Here](#pizza_sales.csv)
 - SQL Server - Data analysis
 - Power BI - creating a reports
 ### Data Cleaning/Preparation
