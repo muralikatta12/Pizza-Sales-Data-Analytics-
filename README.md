@@ -12,27 +12,21 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 - Excel - Data cleaning
 - SQL Server - Data analysis
 - Power BI - creating a reports
-
-  ### Data Cleaning/Preparation
+### Data Cleaning/Preparation
   In this initial data preparation phase, we performed following tasks:
 
   1. Dataloading and inspection.
   2. Handling missing values.
   3. Data cleaning and formatting.
-
-  ### KPI's
-
+### KPI's
 
 
-
-  ### Data Analysis
-
-
+### Data Analysis
 
   
 1. Total Revenue:
-```select round(sum(total_price),2) as Total_Revenue from ```
-``` pizza_sales; ```
+```select round(sum(total_price),2) as Total_Revenue from 
+ pizza_sales; ```
  
 
 2. Average Order value:
