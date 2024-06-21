@@ -5,4 +5,10 @@ Welcome to the Pizza Sales Data Analytics Report repository. This project levera
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "C:\Users\mural\Downloads\pizza_sales.csv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information about each sale made by the company.
+
+###Tools
+
+- Excel - Data cleaning
+- SQL Server - Data analysis
+- Power Bi - creating a reports
