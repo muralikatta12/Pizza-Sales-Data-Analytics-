@@ -151,12 +151,12 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 ### Recommendations
   Based on the analysis I recommend the following actions
   
-    - Since orders peak on weekends, particularly Friday and Saturday evenings, consider running special promotions or discounts during these times to maximize sales.
-    - With maximum orders observed in July and January, plan targeted marketing campaigns for these months. This could include seasonal promotions, holiday-themed offers, 
-      or special limited-time menu items.
-    - Promote large-size pizzas through combo deals and special offers to boost sales.
-    - Promote the Thai Chicken pizza prominently in your menu and advertisements.
-    - Highlight the Brie Carre Pizza, as it significantly contributes to revenue, quantity sold, and total orders.
+  - Since orders peak on weekends, particularly Friday and Saturday evenings, consider running special promotions or discounts during these times to maximize sales.
+  - With maximum orders observed in July and January, plan targeted marketing campaigns for these months. This could include seasonal promotions, holiday-themed offers, 
+    or special limited-time menu items.
+  - Promote large-size pizzas through combo deals and special offers to boost sales.
+  - Promote the Thai Chicken pizza prominently in your menu and advertisements.
+  - Highlight the Brie Carre Pizza, as it significantly contributes to revenue, quantity sold, and total orders.
 
     
 
