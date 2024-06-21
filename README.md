@@ -6,6 +6,8 @@
 ### Project Overview
 
 Welcome to the Pizza Sales Data Analytics Report repository. This project leverages SQL queries to analyze pizza sales data, focusing on key performance indicators (KPIs) to provide actionable insights into business performance.
+
+
 <img width="750" alt="image" src="https://github.com/muralikatta12/Pizza-Sales-Data-Analytics-Report/assets/124357793/615bfbaa-7d03-4aa8-a0d7-42e9f1871aa7">
 
 <img width="753" alt="image" src="https://github.com/muralikatta12/Pizza-Sales-Data-Analytics-Report/assets/124357793/5e16efdc-a0d9-43cc-be21-f7bbf3b7ef91">
