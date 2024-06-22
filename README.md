@@ -20,7 +20,7 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 ### Tools
 
 - Excel - Data cleaning
-  - [Pizza sales.csv](#pizza_sales.csv)
+  - [Pizza sales.csv](#pizza_sales.csv) 
 - SQL Server - Data analysis
 - Power BI - creating a reports
 ### Data Cleaning/Preparation
