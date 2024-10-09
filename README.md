@@ -6,7 +6,7 @@
 ### Project Overview
 
 #### Project Powe BI link: https://app.powerbi.com/links/NxhoYkbdGg?ctid=fa326579-efc4-4441-a22e-ba3c3fb121ac&pbi_source=linkShare
-#### Git Hub Repository: 
+#### Git Hub Repository link :  https://github.com/muralikatta12/Pizza-Sales-Data-Analytics-Report/tree/main
 
 Welcome to the Pizza Sales Data Analytics Report repository. This project leverages SQL queries to analyze pizza sales data, focusing on key performance indicators (KPIs) to provide actionable insights into business performance.
 
